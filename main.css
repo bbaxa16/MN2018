@@ -1,0 +1,30 @@
+header {
+  height: 20%;
+}
+
+nav {
+  background-color: black;
+  color: white;
+}
+nav li {
+  display: inline-block;
+  border: 1px solid white;
+}
+
+.circle {
+  background-color: #51237B;
+  border-radius: 50%;
+  margin: 2%;
+  height: 12%;
+}
+.fa {
+  color: white;
+  padding: 10px;
+}
+.banner {
+  background-image: url('./media/banner.png');
+  width: 100%;
+  height: 300px;
+  background-position: 20px;
+  background-repeat: none;
+}
